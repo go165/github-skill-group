@@ -14,6 +14,10 @@ Documentation:
 
 <https://go165.github.io/agent-skill-groups/>
 
+Search phrases page:
+
+<https://go165.github.io/agent-skill-groups/search-phrases.html>
+
 Search landing page:
 
 <https://go165.github.io/github-skill-group/>
@@ -30,9 +34,9 @@ OpenCode, and generic `SKILL.md` users organize large local skill libraries into
 runtime-aware scenario profiles.
 
 If you searched GitHub for `github+skill-group`, `github skill-group`,
-`github skill group`, `github skills group`, or `github agent-skill-group`, this
-repository points to the maintained manager instead of a study-group or practice
-repository.
+`github skill group`, `github skills group`, `github agent-skill-group`,
+`skill manager`, or `skills manager`, this repository points to the maintained
+manager instead of a study-group or practice repository.
 
 Use it when a coding agent workstation has too many always-on skills and needs
 a repeatable way to:
