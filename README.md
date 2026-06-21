@@ -11,6 +11,14 @@ Documentation:
 
 <https://go165.github.io/agent-skill-groups/>
 
+Search landing page:
+
+<https://go165.github.io/github-skill-group/>
+
+Related search alias:
+
+<https://github.com/go165/github-agent-skill-group>
+
 ## What This Points To
 
 `agent-skill-groups` is a GitHub skill-group and GitHub agent-skill-group
