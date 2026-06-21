@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://go165.github.io/github-skill-group/sitemap.xml
